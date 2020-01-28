@@ -1,0 +1,23 @@
+
+U
+squid:S106`"9Replace this use of System.out or System.err by a logger.(Òè×\8¢ò²Ùü-
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ï¬Z8¢ò²Ùü-
+V
+squid:S106]"9Replace this use of System.out or System.err by a logger.(á‹²ç8¢ò²Ùü-
+9squid:S3626@"Remove this redundant jump.(ûÁİ…8¢ò²Ùü-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(‡Ø¡üÿÿÿÿ8¢ò²Ùü-
+V
+squid:S106a"9Replace this use of System.out or System.err by a logger.(Æ–ó¨8¢ò²Ùü-
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(½İ°Õ8¢ò²Ùü-
+¯%squid:RedundantThrowsDeclarationCheck""rRemove the declaration of thrown exception 'com.quiz.exception.WrongAnswerException' which is a runtime exception.(øˆ¬ıÿÿÿÿ8¢ò²Ùü-
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(‰ĞÀùÿÿÿÿ8¢ò²Ùü-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ƒéÊˆüÿÿÿÿ8¢ò²Ùü-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ÃÚå8¢ò²Ùü-
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(†Ñ‘€ûÿÿÿÿ8¢ò²Ùü-

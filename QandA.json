@@ -1,0 +1,68 @@
+[ 
+{ 
+"question":"Which method is used to create a directory with fileattributes?",
+"answers":[ 
+{ 
+"answer":"Path.create()",
+"correct":"false"
+},
+{ 
+"answer":"Path.createDirectory()",
+"correct":"false"
+},
+{ 
+"answer":"Files.createDirectory(path, fileAttributes)",
+"correct":"true"
+},
+{ 
+"answer":"Files.create(fileAttributes)",
+"correct":"false"
+}
+],
+"explanation":"New directory can be created using Files.createDirectory(path, fileAttribute)."
+},
+{ 
+"question":"Which method can be used to check fileAccessiblity?",
+"answers":[ 
+{ 
+"answer":"isReadable(path)",
+"correct":"false"
+},
+{ 
+"answer":"isWritable(path)",
+"correct":"false"
+},
+{ 
+"answer":"isExecutable(path)",
+"correct":"false"
+},
+{ 
+"answer":"isReadable(path), isWritable(path), and isExecutable(path)",
+"correct":"true"
+}
+],
+"explanation":"File accessibilty can be checked using isReadable(Path), isWritable(Path), and isExecutable(Path)."
+},
+{ 
+"question":"How can we delete all files in a directory?",
+"answers":[ 
+{ 
+"answer":"Files.delete(path)",
+"correct":"true"
+},
+{ 
+"answer":"Files.deleteDir()",
+"correct":"false"
+},
+{ 
+"answer":"Directory.delete()",
+"correct":"false"
+},
+{ 
+"answer":"Directory.delete(path)",
+"correct":"false"
+}
+],
+"explanation":"The delete(Path) method deletes the file or throws an exception if the deletion fails. If file does not exist a NoSuchFileException is thrown."
+}
+]
